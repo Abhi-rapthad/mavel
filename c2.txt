@@ -1,0 +1,9 @@
+Read or initialize a number (n) that you want to check.
+Declare two variables sum and product to store sum and product of digits. Initialize sum with 0 and product with 1.
+Find the last digit (n%10) of the given number by using the modulo operator.
+Add the last digit to the variable sum.
+Multiply the last digit with the product variable.
+Divide the given number (n) by 10. It removes the last digit.
+Repeat steps 3 to 6 until the given number (n) becomes 0.
+If the variable sum and product have the same value, then the given number (n) is a spy number, else not a spy number.
+Let's implement the above step
